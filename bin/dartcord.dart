@@ -7,7 +7,7 @@ import 'package:dartcord/models/servidor.dart';
 void main() {
   final yasmim = Usuario(
     nome: 'Yasmim Síria',
-    apelido: 'Yasmim',
+    apelido: 'Síria',
     online: true,
   );
 
